@@ -2,7 +2,7 @@
   <img alt="Lovense Viewer Logo" src="doc/login_viewer_logo.png">
 </picture>
 
-**The [Lovense Viewer](https://www.lovense.com/game/lovense-viewer/) is a free third-party viewer for Second Life that enables seamless integration with Lovense products.** Connect your favorite Lovense toy(s) to the Lovense Viewer and explore the captivating world of Second Life with enhanced interactivity and immersive experiences. This repository contains the official source code for the Lovense viewer. .
+**The [Lovense Viewer](https://www.lovense.com/game/lovense-viewer/) is a free third-party viewer for Second Life that enables seamless integration with Lovense products.** Connect your favorite Lovense toy(s) to the Lovense Viewer and explore the captivating world of Second Life with enhanced interactivity and immersive experiences. This repository contains the official source code for the Lovense viewer.
 
 ## Open Source
 
