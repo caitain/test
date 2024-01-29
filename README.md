@@ -2,7 +2,7 @@
   <img alt="Lovense Viewer Logo" src="doc/login_viewer_logo.png">
 </picture>
 
-**[Lovense Viewer](https://www.lovense.com/game/lovense-viewer/) is a free client for 3D virtual worlds such as Second Life and various OpenSim worlds where users can create, connect and chat with others from around the world.** This repository contains the official source code for the Lovense viewer.
+**The [Lovense Viewer](https://www.lovense.com/game/lovense-viewer/) is a free third-party viewer for Second Life that enables seamless integration with Lovense products.** Connect your favorite Lovense toy(s) to the Lovense Viewer and explore the captivating world of Second Life with enhanced interactivity and immersive experiences. This repository contains the official source code for the Lovense viewer. .
 
 ## Open Source
 
@@ -48,8 +48,8 @@ Pre-built versions of the viewer releases for Windows and Mac can be downloaded 
 Or Use build script  
 `build-xcode.sh`
 
-Please note that we do not provide support for compiling the viewer or issues resulting from using a self-compiled viewer. However, there is a self-compilers group within Second Life that can be joined to ask questions related to compiling the viewer: [Lovense Viewer Self Compilers](secondlife:///app/group/2014ce4c-5393-fb67-83ac-910db84c273c/about)
+If you have any questions about compiling please contact developer@mail.lovense.com.
 
 ## Contribute
 
-Help make Lovense Viewer better! You can get involved with improvements by filing bugs and suggesting enhancements via [Discord](https://discord.gg/lovense) or creating pull requests.
+Your advice is precious and makes the Lovense Viewer better. Please feel free to get involved with improvements by sharing thoughts/bugs/suggestions via [Discord](https://discord.gg/lovense) or developer@mail.lovense.com.
